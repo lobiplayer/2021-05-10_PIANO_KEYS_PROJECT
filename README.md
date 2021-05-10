@@ -1,0 +1,2 @@
+This is a project from the Codecademy environment.
+Link to this project: https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/projects/piano-keys
